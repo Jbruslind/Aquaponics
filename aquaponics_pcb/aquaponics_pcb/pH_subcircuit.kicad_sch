@@ -1437,7 +1437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RFPCSMA27F"
+		(property "Footprint" "SamacSys_Parts:RFPCSMA27F"
 			(at 179.07 187.63 0)
 			(effects
 				(font
