@@ -1,0 +1,86 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 187.96 82.55)
+		(size 22.86 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "37a12f26-e0b7-4740-be24-dc513a8a30de")
+		(property "Sheetname" "pH_Subcircuit"
+			(at 187.96 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pH_subcircuit.kicad_sch"
+			(at 187.96 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TX_(SDA)" input
+			(at 187.96 85.09 180)
+			(uuid "5c242580-c3cd-4e8f-925b-d1b29dead7ab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "5V_VCC" input
+			(at 210.82 86.36 0)
+			(uuid "845c9786-fae4-4aff-8c08-aa6668e58f26")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RX_(SCL)" input
+			(at 187.96 88.9 180)
+			(uuid "6455be92-92a6-4f0b-ae59-6fd3688ee9ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
