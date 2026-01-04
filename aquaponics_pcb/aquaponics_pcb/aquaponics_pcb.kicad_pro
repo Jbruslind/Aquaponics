@@ -416,6 +416,10 @@
     [
       "37a12f26-e0b7-4740-be24-dc513a8a30de",
       "pH_Subcircuit"
+    ],
+    [
+      "f2b00e64-108c-44b6-8d0e-2e238b42a8e8",
+      "ESP32_MCU"
     ]
   ],
   "text_variables": {}

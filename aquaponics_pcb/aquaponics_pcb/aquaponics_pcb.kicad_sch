@@ -77,6 +77,48 @@
 			)
 		)
 	)
+	(sheet
+		(at 106.68 76.2)
+		(size 29.21 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f2b00e64-108c-44b6-8d0e-2e238b42a8e8")
+		(property "Sheetname" "ESP32_MCU"
+			(at 106.68 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32_MCU.kicad_sch"
+			(at 106.68 95.8346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
