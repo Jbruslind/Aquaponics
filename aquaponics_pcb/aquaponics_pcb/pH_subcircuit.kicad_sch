@@ -1172,15 +1172,23 @@
 			)
 		)
 		(pin "1"
-			(uuid "e4c988d0-d6f6-40da-b45c-fcda122e8231")
+			(uuid "df1edeba-c898-4713-8447-54486abf7b40")
 		)
 		(pin "2"
-			(uuid "ecca2aed-840e-492a-99f4-d16675859da5")
+			(uuid "59ddd7aa-4f5e-4520-a25f-caf24c5dda6e")
 		)
 		(instances
 			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
+					(reference "R17")
+					(unit 1)
+				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
 					(reference "R2")
+					(unit 1)
+				)
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -1196,7 +1204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e03c1ef-0ab5-4d0c-a9ce-0fdc7941b017")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR027"
 			(at 152.4 107.95 0)
 			(effects
 				(font
@@ -1241,11 +1249,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "f22f3cd4-156b-43f9-a94c-295ae5a79393")
+			(uuid "d799b15a-e6ca-4a1b-bf6d-b59d444dfac2")
 		)
 		(instances
-			(project ""
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
+					(reference "#PWR027")
+					(unit 1)
+				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
+					(reference "#PWR027")
+					(unit 1)
+				)
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
 					(reference "#PWR02")
 					(unit 1)
 				)
@@ -1262,7 +1278,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d69003ed-a496-45ae-b290-425b0489c054")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 135.89 80.01 0)
 			(effects
 				(font
@@ -1315,26 +1331,34 @@
 			)
 		)
 		(pin "3"
-			(uuid "49f2c280-e0bb-4da7-b1cd-a8d22dc90a0a")
+			(uuid "baa5c641-0c2b-4f10-94de-7046315dd22a")
 		)
 		(pin "2"
-			(uuid "12edf842-2625-4cd8-9dd1-8028744210f7")
+			(uuid "bc94d63f-c9e5-419e-9ef1-c9c791d8c2ec")
 		)
 		(pin "1"
-			(uuid "c773c641-d592-40a7-99b7-ba8d9f2f8147")
+			(uuid "4eb48c44-50da-4456-b2a7-776a58f6c45b")
 		)
 		(pin "6"
-			(uuid "4339861f-d041-426d-af34-4b5fe2e53541")
+			(uuid "6731ab8a-66fb-4f5f-bee6-5f0cd768b0ab")
 		)
 		(pin "4"
-			(uuid "e102c0ab-a063-4bb5-9078-e161141f569d")
+			(uuid "8e3ce576-4028-4684-8045-f3beb666eec8")
 		)
 		(pin "6"
-			(uuid "6e821181-e641-4aaf-9942-5e8acc2242ba")
+			(uuid "fc3c2985-c0c7-46fc-be1d-ad31447286c6")
 		)
 		(instances
-			(project ""
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
+					(reference "U2")
+					(unit 1)
+				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
+					(reference "U2")
+					(unit 1)
+				)
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
 					(reference "U1")
 					(unit 1)
 				)
@@ -1351,7 +1375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7215c5a-2402-4c5c-880f-b6cded92dc3b")
-		(property "Reference" "R1"
+		(property "Reference" "R18"
 			(at 120.65 78.7399 0)
 			(effects
 				(font
@@ -1397,15 +1421,23 @@
 			)
 		)
 		(pin "1"
-			(uuid "b9fe3b8d-a3ef-4306-ab62-f9d96f493efa")
+			(uuid "7bde6def-1c5e-43dd-883f-8fc5b79fd93f")
 		)
 		(pin "2"
-			(uuid "fc2a9550-edf2-43a2-adab-eea9f25d05f1")
+			(uuid "d9dd50b9-2ade-4ff7-8bd5-37810a476d29")
 		)
 		(instances
-			(project ""
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
+					(reference "R18")
+					(unit 1)
+				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
-					(reference "R1")
+					(reference "R18")
+					(unit 1)
+				)
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -1421,7 +1453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc301db5-2bd3-4e59-aa5a-70b7ed9dda30")
-		(property "Reference" "J1"
+		(property "Reference" "J3"
 			(at 172.72 85.09 0)
 			(effects
 				(font
@@ -1517,23 +1549,31 @@
 			)
 		)
 		(pin "3"
-			(uuid "7e238909-9c70-4bcd-bb08-bb7c78136d75")
+			(uuid "60f3ccac-a381-4238-bf1f-233678e15b3b")
 		)
 		(pin "4"
-			(uuid "8087e010-52e0-48f8-92bf-04795396c494")
+			(uuid "0691f7d5-69ea-4032-83c7-77be2f1384fa")
 		)
 		(pin "1"
-			(uuid "434b3e24-0b36-465b-a03a-e4e4e556fc2e")
+			(uuid "32008e01-977e-4738-a12d-5fe0448864df")
 		)
 		(pin "2"
-			(uuid "1ddbe3b3-ca02-4b0b-b5fb-d3666cd15bd5")
+			(uuid "1359cbc6-ca12-44ab-b7cf-c150f9004a95")
 		)
 		(pin "5"
-			(uuid "0b563b16-ae7c-4cd8-8416-e210b4d1e77b")
+			(uuid "16e979a5-18c8-418a-8db3-d3c0ecfc1509")
 		)
 		(instances
-			(project ""
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
+					(reference "J3")
+					(unit 1)
+				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
+					(reference "J3")
+					(unit 1)
+				)
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
 					(reference "J1")
 					(unit 1)
 				)
@@ -1550,7 +1590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc11c2b3-18fd-4a3d-86fa-d3d74370697f")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR026"
 			(at 115.57 106.68 0)
 			(effects
 				(font
@@ -1595,11 +1635,19 @@
 			)
 		)
 		(pin "1"
-			(uuid "ffff03c3-2dac-4410-9537-bec9650fe63c")
+			(uuid "cf90abe6-b00d-442d-a315-9e578cc8a371")
 		)
 		(instances
-			(project ""
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
+					(reference "#PWR026")
+					(unit 1)
+				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
+					(reference "#PWR026")
+					(unit 1)
+				)
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
 					(reference "#PWR01")
 					(unit 1)
 				)

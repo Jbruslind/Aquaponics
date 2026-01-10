@@ -740,16 +740,70 @@
 		(uuid "33ec4677-38f4-4b44-a4d2-83add6d3a7b6")
 	)
 	(junction
+		(at 179.07 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c92f049-524e-4091-a0c7-e99e6d54509e")
+	)
+	(junction
 		(at 121.92 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3cc316b6-07b2-42d7-bb6c-816692a81566")
 	)
 	(junction
+		(at 181.61 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49b2dda5-6bda-4e2a-91cd-ff8707b0372f")
+	)
+	(junction
+		(at 179.07 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b05ba94-859e-48e6-b1d0-579fb0f4335d")
+	)
+	(junction
 		(at 104.14 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "767838e6-b1d9-497a-982b-118404ef9ca4")
+	)
+	(junction
+		(at 181.61 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb025244-69d1-474f-8e83-aa231e3e04a5")
+	)
+	(wire
+		(pts
+			(xy 179.07 125.73) (xy 186.69 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "059da8ef-d85b-4db6-acf1-e48d7ea322d9")
+	)
+	(wire
+		(pts
+			(xy 179.07 107.95) (xy 179.07 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20d84238-30b9-46c7-80eb-d697478bbc83")
+	)
+	(wire
+		(pts
+			(xy 181.61 104.14) (xy 186.69 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "263aae79-8d77-4a5d-ab5d-49350baa0d17")
 	)
 	(wire
 		(pts
@@ -773,7 +827,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 83.82) (xy 186.69 83.82)
+			(xy 172.72 83.82) (xy 181.61 83.82)
 		)
 		(stroke
 			(width 0)
@@ -800,6 +854,16 @@
 			(type default)
 		)
 		(uuid "5a035925-d40b-43dd-a249-b4026b32797e")
+	)
+	(wire
+		(pts
+			(xy 181.61 83.82) (xy 186.69 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60f23578-3709-42bf-a4ab-48662e5dab2b")
 	)
 	(wire
 		(pts
@@ -833,6 +897,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 83.82) (xy 181.61 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "839b1c0e-1edf-4b66-9590-b8c3c97b3919")
+	)
+	(wire
+		(pts
 			(xy 52.07 85.09) (xy 49.53 85.09)
 		)
 		(stroke
@@ -840,6 +914,26 @@
 			(type default)
 		)
 		(uuid "89bcd438-4102-4a6d-a95b-1aad47e2ef9d")
+	)
+	(wire
+		(pts
+			(xy 186.69 107.95) (xy 179.07 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0d35a85-72ac-4226-a6bc-2e16ab59910c")
+	)
+	(wire
+		(pts
+			(xy 181.61 121.92) (xy 181.61 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a49efbc2-9c16-4b51-8a8b-1d04bb6b4c7b")
 	)
 	(wire
 		(pts
@@ -870,6 +964,16 @@
 			(type default)
 		)
 		(uuid "ba61b04c-b0c9-413b-ad23-e4cb519539ae")
+	)
+	(wire
+		(pts
+			(xy 179.07 87.63) (xy 186.69 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba653436-589e-487a-8fa3-a5bae3cddaaa")
 	)
 	(wire
 		(pts
@@ -913,6 +1017,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 121.92) (xy 181.61 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceb36389-53af-4137-a194-aa2001ad0bef")
+	)
+	(wire
+		(pts
 			(xy 52.07 87.63) (xy 48.26 87.63)
 		)
 		(stroke
@@ -930,6 +1044,16 @@
 			(type default)
 		)
 		(uuid "cf4f3d77-33eb-45af-8443-80a03b80daf8")
+	)
+	(wire
+		(pts
+			(xy 179.07 107.95) (xy 179.07 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d21d1273-76d7-48b9-bb44-f7184a67c1a6")
 	)
 	(wire
 		(pts
@@ -963,7 +1087,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 87.63) (xy 186.69 87.63)
+			(xy 172.72 87.63) (xy 179.07 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1430,6 +1554,78 @@
 		)
 	)
 	(sheet
+		(at 186.69 101.6)
+		(size 22.86 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "07c81ada-4777-4a98-b82e-c983cee6a37c")
+		(property "Sheetname" "DO_Subcircuit"
+			(at 186.69 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pH_subcircuit.kicad_sch"
+			(at 186.69 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TX_(SDA)" input
+			(at 186.69 104.14 180)
+			(uuid "71bf86c5-6922-4c31-a32b-12bcc7139001")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "5V_VCC" input
+			(at 209.55 105.41 0)
+			(uuid "767884ba-5d92-41f7-9356-903bce89c7ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RX_(SCL)" input
+			(at 186.69 107.95 180)
+			(uuid "e28c32b1-4564-40c8-90da-fd49f72cd3d6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 186.69 81.28)
 		(size 22.86 8.89)
 		(exclude_from_sim no)
@@ -1609,6 +1805,120 @@
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 138.43)
+		(size 27.94 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7d8da138-01ac-4b73-bb6c-c34e01e0af05")
+		(property "Sheetname" "Motor_Control_1"
+			(at 125.73 137.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_control_1.kicad_sch"
+			(at 125.73 154.2546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 119.38)
+		(size 22.86 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a6edc2ac-dd2e-4ead-b353-200a5e98d0aa")
+		(property "Sheetname" "Cond_Subcircuit"
+			(at 186.69 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pH_subcircuit.kicad_sch"
+			(at 186.69 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "TX_(SDA)" input
+			(at 186.69 121.92 180)
+			(uuid "58dfa841-2eb9-4c3a-8dd6-ca3230824eca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "5V_VCC" input
+			(at 209.55 123.19 0)
+			(uuid "2b1e30b9-337a-468f-80bf-46adba7fd81a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RX_(SCL)" input
+			(at 186.69 125.73 180)
+			(uuid "54ec0cb7-58af-42b8-bf41-f28ad9f8e614")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "aquaponics_pcb"
+				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f"
+					(page "6")
 				)
 			)
 		)
