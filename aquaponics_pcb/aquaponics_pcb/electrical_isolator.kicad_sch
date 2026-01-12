@@ -2336,7 +2336,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01a85c3c-ed5c-4137-80b9-966cd140b193")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR026"
 			(at 102.87 100.33 0)
 			(effects
 				(font
@@ -2386,7 +2386,7 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/60bf26ba-fc65-4e44-8f3c-45507a542022"
-					(reference "#PWR025")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -2403,7 +2403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d82b764-f41c-4bd2-855c-eb3faeb2f06f")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR025"
 			(at 87.63 107.95 0)
 			(effects
 				(font
@@ -2453,7 +2453,7 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/60bf26ba-fc65-4e44-8f3c-45507a542022"
-					(reference "#PWR022")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -2641,7 +2641,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26b0edbc-ddad-411b-a605-488aeea1c511")
-		(property "Reference" "R11"
+		(property "Reference" "R14"
 			(at 74.93 80.01 90)
 			(effects
 				(font
@@ -2693,7 +2693,7 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/60bf26ba-fc65-4e44-8f3c-45507a542022"
-					(reference "R11")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -2845,7 +2845,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "580c0e64-a0d2-4cae-89c0-c9f89c537f64")
-		(property "Reference" "R12"
+		(property "Reference" "R13"
 			(at 74.93 90.17 90)
 			(effects
 				(font
@@ -2897,7 +2897,7 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/60bf26ba-fc65-4e44-8f3c-45507a542022"
-					(reference "R12")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -2913,7 +2913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d9784a9-2994-43d8-b660-10d375891a1b")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR028"
 			(at 189.23 50.8 0)
 			(effects
 				(font
@@ -2963,7 +2963,7 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/60bf26ba-fc65-4e44-8f3c-45507a542022"
-					(reference "#PWR023")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -3048,7 +3048,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab0e87d2-21a4-4f9f-bba1-03ccb398e13e")
-		(property "Reference" "R13"
+		(property "Reference" "R17"
 			(at 193.04 82.55 90)
 			(effects
 				(font
@@ -3100,7 +3100,7 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/60bf26ba-fc65-4e44-8f3c-45507a542022"
-					(reference "R13")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -3117,7 +3117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba469427-cd0b-4f6a-be8d-2ef8e33d2373")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR027"
 			(at 157.48 106.68 0)
 			(effects
 				(font
@@ -3167,7 +3167,7 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/60bf26ba-fc65-4e44-8f3c-45507a542022"
-					(reference "#PWR024")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -3445,142 +3445,6 @@
 		)
 	)
 	(symbol
-		(lib_id "SamacSys_Parts:SSM6N35AFE,LF")
-		(at 88.9 118.11 0)
-		(mirror y)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f44c5ff0-3fd3-4bdf-9725-fc85cc7fc855")
-		(property "Reference" "Q2"
-			(at 83.82 118.1099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SSM6N35AFE,LF"
-			(at 86.106 113.284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "SOTFL50P160X60-6N"
-			(at 54.61 213.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://toshiba.semicon-storage.com/info/docget.jsp?did=55422&prodName=SSM6N35AFE"
-			(at 54.61 313.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "MOSFET LowON Res MOSFET ID=.25A VDSS=20V"
-			(at 62.992 116.078 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.6"
-			(at 54.61 513.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "757-SSM6N35AFELF"
-			(at 54.61 613.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM6N35AFELF?qs=BZBei1rCqCAZRZlXQuST4g%3D%3D"
-			(at 54.61 713.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Toshiba"
-			(at 54.61 813.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SSM6N35AFE,LF"
-			(at 54.61 913.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "c7f73c42-067f-4eba-a656-e43faa0250a7")
-		)
-		(pin "2"
-			(uuid "a7bffd6b-436a-4c9d-84d9-23ee4dbc20ee")
-		)
-		(pin "4"
-			(uuid "4a26d741-a013-47f4-8be0-7ad711123842")
-		)
-		(pin "5"
-			(uuid "4846198a-6f42-497a-b205-caa1a73e4571")
-		)
-		(pin "1"
-			(uuid "3710b25e-05a4-4d66-9954-31a2ee1c6f85")
-		)
-		(pin "3"
-			(uuid "a9a24a88-b042-4f4d-888c-8cb7f8578791")
-		)
-		(instances
-			(project ""
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/60bf26ba-fc65-4e44-8f3c-45507a542022"
-					(reference "Q2")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 186.69 90.17 0)
 		(unit 1)
@@ -3589,7 +3453,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5b00a07-7248-4458-a9d7-9ac9eb6ada98")
-		(property "Reference" "R14"
+		(property "Reference" "R18"
 			(at 193.04 90.17 90)
 			(effects
 				(font
@@ -3641,7 +3505,7 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/60bf26ba-fc65-4e44-8f3c-45507a542022"
-					(reference "R14")
+					(reference "R18")
 					(unit 1)
 				)
 			)

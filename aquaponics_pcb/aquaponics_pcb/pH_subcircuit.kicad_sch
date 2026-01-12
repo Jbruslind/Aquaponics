@@ -1123,10 +1123,10 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "00fa8649-5291-4723-8d76-11432e21ac34")
-		(property "Reference" "R2"
+		(property "Reference" "R5"
 			(at 111.76 78.7399 0)
 			(effects
 				(font
@@ -1180,15 +1180,15 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
-					(reference "R17")
+					(reference "R19")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
-					(reference "R2")
+					(reference "R5")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
-					(reference "R1")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -1204,7 +1204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e03c1ef-0ab5-4d0c-a9ce-0fdc7941b017")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR02"
 			(at 152.4 107.95 0)
 			(effects
 				(font
@@ -1254,15 +1254,15 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
-					(reference "#PWR027")
+					(reference "#PWR030")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
-					(reference "#PWR027")
+					(reference "#PWR02")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
-					(reference "#PWR02")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -1278,7 +1278,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d69003ed-a496-45ae-b290-425b0489c054")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 135.89 80.01 0)
 			(effects
 				(font
@@ -1355,11 +1355,11 @@
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
-					(reference "U1")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -1372,10 +1372,10 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d7215c5a-2402-4c5c-880f-b6cded92dc3b")
-		(property "Reference" "R18"
+		(property "Reference" "R6"
 			(at 120.65 78.7399 0)
 			(effects
 				(font
@@ -1429,15 +1429,15 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
-					(reference "R18")
+					(reference "R20")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
-					(reference "R18")
+					(reference "R6")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
-					(reference "R19")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -1453,7 +1453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc301db5-2bd3-4e59-aa5a-70b7ed9dda30")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 172.72 85.09 0)
 			(effects
 				(font
@@ -1570,11 +1570,11 @@
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
-					(reference "J1")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -1590,7 +1590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc11c2b3-18fd-4a3d-86fa-d3d74370697f")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR01"
 			(at 115.57 106.68 0)
 			(effects
 				(font
@@ -1640,15 +1640,15 @@
 		(instances
 			(project "aquaponics_pcb"
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/07c81ada-4777-4a98-b82e-c983cee6a37c"
-					(reference "#PWR026")
+					(reference "#PWR029")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/37a12f26-e0b7-4740-be24-dc513a8a30de"
-					(reference "#PWR026")
+					(reference "#PWR01")
 					(unit 1)
 				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/a6edc2ac-dd2e-4ead-b353-200a5e98d0aa"
-					(reference "#PWR01")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
