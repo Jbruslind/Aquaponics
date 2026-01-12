@@ -2484,7 +2484,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP65P780X200-20N"
+		(property "Footprint" "SamacSys_Parts:SOP65P780X200-20N"
 			(at 138.43 163.5 0)
 			(effects
 				(font
@@ -3201,7 +3201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SOTFL50P160X60-6N"
+		(property "Footprint" "SamacSys_Parts:SOTFL50P160X60-6N"
 			(at 120.65 188.9 0)
 			(effects
 				(font

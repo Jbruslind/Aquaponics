@@ -1,4 +1,4 @@
-27287279057241140
+27307401652445841
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98672,6 +98672,13 @@ LED
 6
 6
 SamacSys_Parts
+23387921
+2338792-1-2
+Connector
+0
+30
+30
+SamacSys_Parts
 ASFL1
 ASFL1
 Crystal or Oscillator
@@ -98703,6 +98710,13 @@ SamacSys_Parts
 CAPPRD350W65D800H1650
 8*15
 Capacitor Polarised
+0
+2
+2
+SamacSys_Parts
+CPDH5V0PHF
+CPDH5V0P-HF-2
+TVS Diode (Bi-directional)
 0
 2
 2
@@ -98741,6 +98755,13 @@ Integrated Circuit
 0
 16
 16
+SamacSys_Parts
+ESP32S3WROOM1UN8
+ESP32-S3-WROOM-1U-N8-2
+Integrated Circuit
+0
+49
+49
 SamacSys_Parts
 INDPM6965X300N
 IHLP2525 (3 Height)
@@ -98791,6 +98812,13 @@ Switch
 4
 4
 SamacSys_Parts
+QFN50P300X300X80-17N-D
+RTE0016C
+Integrated Circuit
+0
+17
+17
+SamacSys_Parts
 QFN50P500X500X90-33N-D
 32-pin QFN
 Integrated Circuit
@@ -98818,6 +98846,13 @@ Crystal or Oscillator
 0
 4
 4
+SamacSys_Parts
+SOD3716X145N
+1N5819HW-7-F
+Diode
+0
+2
+2
 SamacSys_Parts
 SOIC127P600X170-9N
 DDA (PDSO-G8)
@@ -98861,6 +98896,13 @@ Integrated Circuit
 29
 29
 SamacSys_Parts
+SOP65P780X200-20N
+SSOP-20
+Integrated Circuit
+0
+20
+20
+SamacSys_Parts
 SOP100P600X180-11N
 ESSOP10 (5*3.9mm)
 Integrated Circuit
@@ -98876,8 +98918,8 @@ Relay or Contactor
 4
 SamacSys_Parts
 SOT95P230X110-3N
-Plastic surface-mounted package; 3 leads SOT23
-MOSFET (N-Channel)
+SOT23
+Transistor BJT NPN
 0
 3
 3
@@ -98917,12 +98959,40 @@ Integrated Circuit
 8
 8
 SamacSys_Parts
+SOT230P700X180-4N
+AZ1117CH-3.3TRG1
+Integrated Circuit
+0
+4
+4
+SamacSys_Parts
+SOTFL50P160X60-6N
+MOSFET
+MOSFET (N-Channel)
+0
+6
+6
+SamacSys_Parts
 SOTFL50P160X60-8N
 DRL0008A
 Undefined or Miscellaneous
 0
 8
 8
+SamacSys_Parts
+TS046650BK260SMTTR
+TS04-66-50-BK-260-SMT-TR-2
+Switch (4-Pin Push)
+0
+4
+4
+SamacSys_Parts
+WS2812BB
+WS2812B-B-2
+LED
+0
+4
+4
 SamacSys_Parts
 XT30PWF
 XT30PW-F-2

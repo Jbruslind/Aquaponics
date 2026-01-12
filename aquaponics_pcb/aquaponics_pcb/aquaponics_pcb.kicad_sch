@@ -2062,7 +2062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SOTFL50P160X60-6N"
+		(property "Footprint" "SamacSys_Parts:SOTFL50P160X60-6N"
 			(at 18.11 99.06 0)
 			(effects
 				(font
@@ -2196,7 +2196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SOTFL50P160X60-6N"
+		(property "Footprint" "SamacSys_Parts:SOTFL50P160X60-6N"
 			(at 1.6 118.11 0)
 			(effects
 				(font
@@ -2330,7 +2330,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SOTFL50P160X60-6N"
+		(property "Footprint" "SamacSys_Parts:SOTFL50P160X60-6N"
 			(at 18.11 121.92 0)
 			(effects
 				(font

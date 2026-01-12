@@ -559,7 +559,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1294,7 +1294,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "aquaponics_pcb:EZO FOOTPRINT"
 			(at 125.73 100.33 0)
 			(effects
 				(font
@@ -1345,7 +1345,7 @@
 		(pin "4"
 			(uuid "8e3ce576-4028-4684-8045-f3beb666eec8")
 		)
-		(pin "6"
+		(pin "5"
 			(uuid "fc3c2985-c0c7-46fc-be1d-ad31447286c6")
 		)
 		(instances
