@@ -1563,10 +1563,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "R28")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "R25")
 					(unit 1)
@@ -1633,10 +1629,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "#PWR032")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "#PWR033")
 					(unit 1)
@@ -1703,10 +1695,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "#PWR035")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "#PWR036")
 					(unit 1)
@@ -1774,10 +1762,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "R30")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "R27")
 					(unit 1)
@@ -1844,10 +1828,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "#PWR033")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "#PWR034")
 					(unit 1)
@@ -1915,10 +1895,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "R29")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "R26")
 					(unit 1)
@@ -1986,10 +1962,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "R31")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "R28")
 					(unit 1)
@@ -2057,10 +2029,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "R26")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "R23")
 					(unit 1)
@@ -2128,10 +2096,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "R27")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "R24")
 					(unit 1)
@@ -2198,10 +2162,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "#PWR034")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "#PWR035")
 					(unit 1)
@@ -2367,10 +2327,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "IC5")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "IC4")
 					(unit 1)
@@ -2441,10 +2397,6 @@
 		)
 		(instances
 			(project "aquaponics_pcb"
-				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/5dab4911-9bf0-4ffd-b514-76c645a5a235"
-					(reference "J5")
-					(unit 1)
-				)
 				(path "/c5e5a8d2-0dcc-4520-98a5-511e1dc0d12f/7d8da138-01ac-4b73-bb6c-c34e01e0af05"
 					(reference "J5")
 					(unit 1)
