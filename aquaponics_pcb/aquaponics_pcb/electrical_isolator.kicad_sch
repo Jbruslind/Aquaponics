@@ -1653,12 +1653,6 @@
 		(uuid "8650ca9c-67c4-48a0-836e-c563b02ea422")
 	)
 	(junction
-		(at 171.45 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8769c75d-612e-4290-aef9-9e246e0e5a88")
-	)
-	(junction
 		(at 87.63 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1683,10 +1677,22 @@
 		(uuid "caa13ba7-dc04-4299-be1e-d97512d15eac")
 	)
 	(junction
+		(at 161.29 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d0fcc9b6-50c3-41c6-b406-cc7fbb1efeaa")
+	)
+	(junction
 		(at 157.48 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d9bdde38-d647-4001-b597-88da1385ef8c")
+	)
+	(junction
+		(at 172.72 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff9e8978-e22d-4d1a-aa7a-baa6254b19d4")
 	)
 	(wire
 		(pts
@@ -1740,7 +1746,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 69.85) (xy 171.45 73.66)
+			(xy 172.72 69.85) (xy 172.72 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1790,7 +1796,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 73.66) (xy 171.45 73.66)
+			(xy 175.26 73.66) (xy 172.72 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1840,7 +1846,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 62.23) (xy 166.37 62.23)
+			(xy 172.72 62.23) (xy 166.37 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1850,7 +1856,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 73.66) (xy 142.24 73.66)
+			(xy 142.24 73.66) (xy 172.72 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2110,6 +2116,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 71.12) (xy 162.56 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccfa3567-87f2-42dd-81a6-024611e622cb")
+	)
+	(wire
+		(pts
 			(xy 157.48 68.58) (xy 142.24 68.58)
 		)
 		(stroke
@@ -2305,7 +2321,7 @@
 	)
 	(hierarchical_label "ISO_SDA"
 		(shape input)
-		(at 172.72 73.66 0)
+		(at 175.26 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2316,7 +2332,7 @@
 	)
 	(hierarchical_label "ISO_SCL"
 		(shape input)
-		(at 161.29 71.12 0)
+		(at 162.56 71.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2563,6 +2579,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 106.68 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 106.68 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "be2525e5-5564-435f-bcc7-b2a46727fbdc")
 		)
@@ -2684,6 +2718,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C22935"
+			(at 74.93 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22935"
+			(at 74.93 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a780556c-2403-4047-94f0-2195ade99b7d")
 		)
@@ -2754,6 +2806,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C194427"
+			(at 177.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C194427"
+			(at 177.8 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c5d29ee-2f43-45ff-9cf7-af8c1b35c669")
 		)
@@ -2771,7 +2841,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 66.04 0)
+		(at 172.72 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2779,7 +2849,7 @@
 		(dnp no)
 		(uuid "5655fb45-f530-4df4-960e-f0421fc57254")
 		(property "Reference" "R16"
-			(at 177.8 66.04 90)
+			(at 179.07 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2787,7 +2857,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 175.26 66.04 90)
+			(at 176.53 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2795,7 +2865,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 172.466 66.294 90)
+			(at 173.736 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2804,7 +2874,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 66.04 0)
+			(at 172.72 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2813,7 +2883,25 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 66.04 0)
+			(at 172.72 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C99782"
+			(at 172.72 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C99782"
+			(at 172.72 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2881,6 +2969,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 68.58 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C22935"
+			(at 68.58 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C22935"
+			(at 68.58 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3024,6 +3130,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C15849"
+			(at 189.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
+			(at 189.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab6e58a5-e8c3-44e3-9f51-4a4ac58c7a80")
 		)
@@ -3084,6 +3208,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 186.69 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 186.69 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C98220"
+			(at 186.69 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3280,6 +3422,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 86.36 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 86.36 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "c7f73c42-067f-4eba-a656-e43faa0250a6")
 		)
@@ -3362,6 +3522,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 200.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 200.66 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27bdb549-a42a-4e98-8a77-ea03d57c27fb")
 		)
@@ -3429,6 +3607,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C99782"
+			(at 161.29 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C99782"
+			(at 161.29 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e2d33f93-f8c8-4e11-951d-42369a896828")
 		)
@@ -3489,6 +3685,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 186.69 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C99782"
+			(at 186.69 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C99782"
+			(at 186.69 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)

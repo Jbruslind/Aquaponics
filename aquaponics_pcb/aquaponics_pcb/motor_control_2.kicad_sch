@@ -892,6 +892,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "I2C ADDR 0x6Dh (read)"
+		(exclude_from_sim no)
+		(at 205.994 109.982 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0bf3f680-a83f-4790-a0a8-d8ec673330fb")
+	)
 	(junction
 		(at 180.34 81.28)
 		(diameter 0)
@@ -1558,6 +1568,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 193.04 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 193.04 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77b1a9ac-4bd4-4eae-8d9e-aeae14e5485b")
 		)
@@ -1628,6 +1656,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 96.52 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C98220"
+			(at 96.52 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6079affd-ca59-49fb-a9d2-57ed902a9999")
 		)
@@ -1690,6 +1736,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 180.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 180.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C98220"
 			(at 180.34 100.33 0)
 			(effects
 				(font
@@ -1969,6 +2033,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 140.97 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 140.97 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "da13d011-461d-4922-b34e-bc9cdfbcefee")
 		)
@@ -2039,6 +2121,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 193.04 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C98220"
+			(at 193.04 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37b10b82-4f8c-4743-b516-bcd6b786538c")
 		)
@@ -2061,7 +2161,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c52498c5-e2c2-46f8-86ae-869e4c0427cb")
 		(property "Reference" "IC5"
@@ -2156,6 +2256,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 121.92 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 121.92 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -2266,6 +2384,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 180.34 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 180.34 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
 			(at 180.34 85.09 0)
 			(effects
 				(font
@@ -2402,6 +2538,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 106.68 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2933263"
+			(at 106.68 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2933263"
 			(at 106.68 74.93 0)
 			(effects
 				(font

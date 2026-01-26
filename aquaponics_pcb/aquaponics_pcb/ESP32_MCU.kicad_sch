@@ -4787,25 +4787,15 @@
 		)
 		(uuid "2150bc4b-4174-40cc-a66b-393700ff2830")
 	)
-	(label "MCU_USB_DN"
-		(at 101.6 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2bc4349c-7068-4bd7-ab34-15805cf226b4")
-	)
 	(label "MCU_USB_DP"
-		(at 101.6 90.17 0)
+		(at 69.85 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "51d05aba-ebe5-4caf-95f6-a4badad91db9")
+		(uuid "5f5f0fef-f160-432a-a5a0-c22a1efb5431")
 	)
 	(label "GPIO0"
 		(at 246.38 59.69 0)
@@ -4816,6 +4806,16 @@
 			(justify left bottom)
 		)
 		(uuid "765475bd-f341-4d9a-97eb-bbc0599a1a21")
+	)
+	(label "MCU_USB_DN"
+		(at 71.12 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a3d6eae3-43ad-4154-909e-fbdd199cfb19")
 	)
 	(label "EN"
 		(at 104.14 62.23 0)
@@ -5131,6 +5131,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C194427"
+			(at 22.86 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C194427"
+			(at 22.86 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca3f117d-922f-4707-9dda-d245e1b91d26")
 		)
@@ -5193,6 +5211,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 34.29 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C15849"
+			(at 34.29 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
 			(at 34.29 29.21 0)
 			(effects
 				(font
@@ -5521,6 +5557,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 34.29 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 34.29 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -5957,6 +6011,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 252.73 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C98220"
+			(at 252.73 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51120893-781a-4a88-9cd9-8d894b3babc8")
 		)
@@ -6099,6 +6171,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C15849"
+			(at 177.8 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
+			(at 177.8 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7681956f-8e3e-4ed4-bf2f-3dcbfd813e97")
 		)
@@ -6160,6 +6250,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 158.75 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C98220"
+			(at 158.75 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C98220"
+			(at 158.75 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6355,6 +6463,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C2443345"
+			(at 81.28 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2443345"
+			(at 81.28 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "70e7eb1d-f182-4d32-a252-1e9e66ac18ea")
 		)
@@ -6425,6 +6551,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C14663"
+			(at 189.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
+			(at 189.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "08e9bd92-2a26-4260-951b-8e19dd1f9985")
 		)
@@ -6485,6 +6629,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 142.24 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C15849"
+			(at 142.24 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
+			(at 142.24 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6609,6 +6771,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 132.08 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 132.08 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -6968,6 +7148,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 205.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 205.74 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "663b2046-e343-4c2f-beeb-41449353b698")
 		)
@@ -7107,6 +7305,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 91.44 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2906974"
+			(at 91.44 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2906974"
+			(at 91.44 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7303,6 +7519,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 125.73 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 125.73 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7708,6 +7942,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C2906974"
+			(at 97.79 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2906974"
+			(at 97.79 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fe71db3e-9be3-4b82-9ecc-403dbbd074a1")
 		)
@@ -7828,6 +8080,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 134.62 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 134.62 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "b3122ae1-b76b-4932-878c-0aed498fbfa3")
 		)
@@ -7896,6 +8166,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 45.72 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C14663"
+			(at 45.72 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C14663"
 			(at 45.72 29.21 0)
 			(effects
 				(font
@@ -8026,6 +8314,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C2443345"
+			(at 87.63 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2443345"
+			(at 87.63 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0e01cdc-9a22-45bc-8f48-65529f0a072a")
 		)
@@ -8086,6 +8392,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 97.79 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C15849"
+			(at 97.79 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C15849"
+			(at 97.79 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8163,6 +8487,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C98220"
+			(at 260.35 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C98220"
+			(at 260.35 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1c5cd7a3-020e-423e-bf0a-b897c3cd5551")
 		)
@@ -8225,6 +8567,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 166.37 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C194427"
+			(at 166.37 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C194427"
 			(at 166.37 30.48 0)
 			(effects
 				(font
@@ -8416,6 +8776,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" ""
+			(at 194.31 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 194.31 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -8823,6 +9201,24 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" ""
+			(at 88.9 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" ""
+			(at 88.9 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "3b8e6313-c184-4740-9e1a-185eaa51529d")
 		)
@@ -8890,6 +9286,24 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 242.57 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C2906974"
+			(at 242.57 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C2906974"
+			(at 242.57 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
